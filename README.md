@@ -14,6 +14,7 @@ You will find on this GitHub :
 - [A clustering analysis using dimension reduction and k-means clustering](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/clustering.ipynb)
 - [A study that asses the presence of non-linear behaviors via machine learning methods](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/ml-classifiers.ipynb)
 - [Non-linearities selection via automatic selection methods (penalisation models)](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/add%20non-linearities.ipynb)
+- [Prediction with the best classifier using non-linearities](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/best_classifier.ipynb)
 - [A SHAP values analysis to interpret our model](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/shape_value.ipynb)
 
 ## Authors
