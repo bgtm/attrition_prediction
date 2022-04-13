@@ -18,9 +18,5 @@ You will find on this GitHub :
 
 ## Authors
 
-Bruguet Marie
-
-Bulliard Loris
-
-Pion Victor
+Bruguet Marie - Bulliard Loris - Pion Victor
 
