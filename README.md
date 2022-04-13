@@ -17,6 +17,10 @@ You will find on this GitHub :
 - [A SHAP values analysis to interpret our model](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/shape_value.ipynb)
 
 ## Authors
+
 Bruguet Marie
+
 Bulliard Loris
+
 Pion Victor
+
