@@ -15,3 +15,8 @@ You will find on this GitHub :
 - [A study that asses the presence of non-linear behaviors via machine learning methods](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/ml-classifiers.ipynb)
 - [Non-linearities selection via automatic selection methods (penalisation models)](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/add%20non-linearities.ipynb)
 - [A SHAP values analysis to interpret our model](https://github.com/bgtm/attrition_prediction/blob/main/notebooks/shape_value.ipynb)
+
+## Authors
+Bruguet Marie
+Bulliard Loris
+Pion Victor
